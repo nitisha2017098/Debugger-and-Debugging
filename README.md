@@ -51,21 +51,13 @@ Early microcomputers with disk-based storage often benefitted from the ability t
 
 2. LLDB: A debugger that supports multiple programming languages, including C, Objective-C, and Swift.
 
-3. strace: A system call tracer that allows you to see what a program is doing at the system call level.
-
-4. ltrace: A library call tracer that allows you to see what functions a program is calling in shared libraries.
-
-5. Perf: A profiling tool that provides statistical information about a program's performance.
-
-6. dtrace: A dynamic tracing framework that allows you to instrument and trace system events in real-time.
-
-7. Sysdig: A system monitoring and troubleshooting tool that allows you to debug performance and security issues in real-time.
-
-8. Wireshark: A network protocol analyzer that allows you to capture and analyze network traffic.
-
-9. tcpdump: A command-line tool that allows you to capture and analyze network traffic at the packet level.
-
-10. Valgrind: A suite of tools that help you debug memory management issues, such as memory leaks and buffer overflows.
+3. Chrome DevTools, 
+4. Progress Telerik Fiddler,  
+5. SonarLint, 
+6. Data Display Debugger, 
+7. Froglogic Squish, 
+8. Percepio Tracealyzer, 
+9. TotalView HPC Debugging Software, and Rollbar.
 
 ### How to use debugger
 
