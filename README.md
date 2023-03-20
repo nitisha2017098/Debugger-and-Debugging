@@ -85,8 +85,14 @@ Marketplace or select Install Additional Debuggers in the top-level Run menu.
 + https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug
 + https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp
 
+### Detailed tutorial for debuuging process in VScode 
++ https://code.visualstudio.com/docs/editor/debugging#:~:text=Node.js%20%2D%20Describes%20the%20Node,is%20included%20in%20VS%20Code.
+**Please go through it once and expand your knowledge.**
+
 
 ### How to use debugger
+
+- How to use VScode debugger , will be showing live demo 
 
 
 
