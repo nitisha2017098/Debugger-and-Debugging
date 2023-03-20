@@ -59,7 +59,56 @@ Early microcomputers with disk-based storage often benefitted from the ability t
 8. Percepio Tracealyzer, 
 9. TotalView HPC Debugging Software, and Rollbar.
 
+
+
+
+### Debugging tools of VS CODE
+
++ One of the key features of Visual Studio Code is its great debugging support. 
+VS Code's built-in debugger helps accelerate your edit, compile, and debug loop.
+
+![image](https://user-images.githubusercontent.com/75418380/226431014-041cedf9-4983-4dc7-af75-6241bc9be20e.png)
+
+
+### Debugger extensions
+VS Code has built-in debugging support for the Node.js runtime and can debug JavaScript, 
+TypeScript, or any other language that gets transpiled to JavaScript.
+
+For debugging other languages and runtimes (including PHP, Ruby, Go, C#, Python, 
+C++, PowerShell and many others), look for Debuggers extensions in the VS Code 
+Marketplace or select Install Additional Debuggers in the top-level Run menu.
+
+
+**Below are several popular extensions which include debugging support:**
++ https://marketplace.visualstudio.com/items?itemName=ms-python.python
++ https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
++ https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug
++ https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp
+
+
 ### How to use debugger
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
